@@ -297,7 +297,7 @@ h1.navbar-brand {
 }
 
 .navbar-inverse .navbar-nav > li > a {
-    color: #a333b7;
+    color: #1c0613;
     font-size: 15px;
     text-transform: uppercase;
 }
@@ -361,8 +361,8 @@ h1.navbar-brand {
 }
 
 .caption-content h2 {
-    color: #a333b7;
-    font-size: 52px;
+    color: #1c0613;
+    font-size: 200px;
     font-weight: 400;
     margin-bottom: 25px;
     text-transform: uppercase;
@@ -513,7 +513,7 @@ h1.navbar-brand {
 ==================================================================*/
 
 #about {
-    background-color: #009EE3;
+    background-color: #310B00;
     color: #fff;
 }
 
